@@ -1,9 +1,9 @@
-#include<stdio.h>
+include<stdio.h>
 #include<stdlib.h>
 
 main()
 {
-    int fn[250], ch, nfn[250];
+    char fn[250], ch, nfn[250];
     long int size, n, k;
     int i;
     FILE *f, *ft; //file and temp file
